@@ -1,13 +1,27 @@
-<h1 align="center">Hi 👋, I'm Subhajit Das</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=0000FFF&width=800&height=60&lines=%F0%9F%94%8D+whoami)](https://git.io/typing-svg)
 
-<img align="right" alt="Code" width="350" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h2>Hi 👋, I'm Subhajit Das</h1>
+<h4>A passionate Software Student from India. Aspiring developer with a strong foundation in programming, eager to contribute to innovative
+ projects in technology. Committed to continuous learning and applying my skills in real-world challenges.
+ </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitindia99das&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitindia99das" /> </p>
+- 🌱 I’m currently learning **Java, Python, DSA, Web Development**
+- 💡 Passionate about **startups, building projects & productivity.**
+- 👨‍💻 Participated in **Hackathons**
+- 🎓Persuing **B.Tech in CSE from Meghnad Saha Institute of Technology.**
+<br>
 
-- 🌱 I’m currently learning **Python, DSA, Web Development**
+## About Me 🚀
+<br>
 
-- ⚡ Fun fact **I am funny.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=1000&color=9B4EF7&width=1000&lines=Full+Stack+Developer;Competitive+Programmer;Passionate+Python+Coder;AI+Enthusiast;)](https://git.io/typing-svg)
+- 💻 I create full-stack web apps that function great & look stunning
+- 🧠 Participated in multiple hackathons and tech events
+- 🤖 Exploring **AI & ML to fuel future business ideas**
+- 🎨 I love design on **Canva**
+- 🚀 Focused on financial freedom.
+<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
