@@ -1,3 +1,14 @@
+<!-- Profile views -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sksameersalam&label=Profile%20views&color=0e75b6&style=flat" alt="dampdigits" /> </p> -->
+<!-- Banner -->
+<picture>
+  <!-- dark theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="profilePic/proimg.png">
+  <!-- light theme -->
+  <source media="(prefers-color-scheme: light)" srcset="profilePic/proimg.png">
+  <img alt="banner" src="banners/dampdigitsDarkbg.jpg">
+</picture>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&pause=4000&color=0000FFF&width=800&height=60&lines=%F0%9F%94%8D+whoami)](https://git.io/typing-svg)
 
 <h2>Hi 👋, I'm Subhajit Das</h1>
@@ -29,14 +40,14 @@
 <!-- Dark Mode -->
 <a href="https://github.com/Subhajitindia99das#gh-dark-mode-only">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,react,nodejs,git,github,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,react,nodejs,git,github,bootstrap,mongodb,postman,vercel,npm,wordpress,vscode,pycharm,bash,powershell,vim&perline=8" />
   </p>
 </a>
 
 <!-- Light Mode -->
 <a href="https://github.com/Subhajitindia99das#gh-light-mode-only">
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,react,nodejs,git,github,vscode&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,java,react,nodejs,git,github,bootstrap,mongodb,postman,vercel,npm,wordpress,vscode,pycharm,bash,powershell,vim&perline=8&theme=light" />
   </p>
 </a>
 
@@ -48,12 +59,12 @@
 <p align="center">
   <!-- Dark Mode -->
   <a href="https://github.com/Subhajitindia99das#gh-dark-mode-only">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
+    <img height="200" width="fit" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
   </a>
 
   <!-- Light Mode -->
   <a href="https://github.com/Subhajitindia99das#gh-light-mode-only">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
+    <img height="200" width="fit" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
   </a>
   <!-- Most used languages -->
   <!-- Dark Mode -->
