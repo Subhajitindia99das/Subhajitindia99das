@@ -61,7 +61,7 @@
 
 <!-- Github Stats -->
 ## Github stats 📈
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; flex-drction: row; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Dark Mode -->
   <a href="https://github.com/Subhajitindia99das#gh-dark-mode-only">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
@@ -87,7 +87,7 @@
   <picture>
     <!-- Dark Mode -->
     <source 
-      srcset="https://streak-stats.demolab.com?user=Subhajitindia99das&theme=radical&card_width=804&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=Subhajitindia99das&theme=tokyonight&card_width=804&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <!-- Light Mode -->
@@ -105,7 +105,7 @@
 ### 📊 Activity Graph
 
 <!-- Dark Mode -->
-[![Subhajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhajitindia99das&theme=redical&hide_border=true#gh-dark-mode-only)](https://github.com/Subhajitindia99das#gh-dark-mode-only)
+[![Subhajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhajitindia99das&theme=react-dark&hide_border=true#gh-dark-mode-only)](https://github.com/Subhajitindia99das#gh-dark-mode-only)
 <!-- Light Mode -->
 [![Subhajit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subhajitindia99das&theme=github-light#gh-light-mode-only)](https://github.com/Subhajitindia99das#gh-light-mode-only)
 
