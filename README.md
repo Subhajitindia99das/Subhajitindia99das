@@ -51,20 +51,25 @@
   </p>
 </a>
 
+---
+
+### 🧠 GeeksforGeeks Stats
+
+- 💻 Coding Profile: [View My GFG](https://auth.geeksforgeeks.org/user/subhajit1xqyy/profile)
 
 ---
 
 <!-- Github Stats -->
 ## Github stats 📈
-<p align="center">
+<p>
   <!-- Dark Mode -->
   <a href="https://github.com/Subhajitindia99das#gh-dark-mode-only">
-    <img height="200" width="fit" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
   </a>
 
   <!-- Light Mode -->
   <a href="https://github.com/Subhajitindia99das#gh-light-mode-only">
-    <img height="200" width="fit" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
   </a>
   <!-- Most used languages -->
   <!-- Dark Mode -->
