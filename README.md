@@ -54,17 +54,19 @@
 ---
 
 ## Leetcode stats ⚡
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/dampdigits?theme=radical&font=Fira%20Mono&ext=heatmap) -->
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Subho11?theme=radical&font=Fira%20Mono&ext=heatmap) -->
 <p align="center">
   <!-- Dark Mode -->
-  <a href="https://github.com/dampdigits#gh-dark-mode-only">
-    <img src="https://leetcard.jacoblin.cool/Subho11?theme=radical&font=Fira%20Mono&ext=heatmap"/>
+  <a href="https://github.com/Subho11#gh-dark-mode-only">
+    <img src="https://leetcard.jacoblin.cool/Subho11?theme=chartreuse&font=Baloo%20Bhai%202&ext=heatmap"/>
+<!--     ![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=chartreuse&font=Baloo%20Bhai%202&ext=heatmap) -->
   </a>
   <!-- Light Mode -->
-  <a href="https://github.com/dampdigits#gh-light-mode-only">
-    <img src="https://leetcard.jacoblin.cool/Subho11?theme=light&font=Fira%20Mono&ext=heatmap"/>
+  <a href="https://github.com/Subho11#gh-light-mode-only">
+    <img src="https://leetcard.jacoblin.cool/Subho11?theme=chartreuse&font=Baloo%20Bhai%202&ext=heatmap"/>
   </a>
 </p>
+
 
 ---
 
