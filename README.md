@@ -53,9 +53,18 @@
 
 ---
 
-### 🧠 GeeksforGeeks Stats
-
-- 💻 Coding Profile: [View My GFG](https://auth.geeksforgeeks.org/user/subhajit1xqyy/profile)
+## Leetcode stats ⚡
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/dampdigits?theme=radical&font=Fira%20Mono&ext=heatmap) -->
+<p align="center">
+  <!-- Dark Mode -->
+  <a href="https://github.com/dampdigits#gh-dark-mode-only">
+    <img src="https://leetcard.jacoblin.cool/Subho11?theme=radical&font=Fira%20Mono&ext=heatmap"/>
+  </a>
+  <!-- Light Mode -->
+  <a href="https://github.com/dampdigits#gh-light-mode-only">
+    <img src="https://leetcard.jacoblin.cool/Subho11?theme=light&font=Fira%20Mono&ext=heatmap"/>
+  </a>
+</p>
 
 ---
 
@@ -63,21 +72,34 @@
 ## Github stats 📈
 <p align="center" style="display: flex; flex-drction: row; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <!-- Dark Mode -->
-  <a href="https://github.com/Subhajitindia99das#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-dark-mode-only"/>
-  </a>
-  <a href="https://github.com/Subhajitindia99das#gh-dark-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitindia99das&layout=compact&theme=radical&hide_border=true&card_width=400" />
-  </a>
+<picture>
+  <!-- Dark mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show_icons=true&theme=blue&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Light mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show_icons=true&theme=blue&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show_icons=true&theme=blue&hide_border=true&bg_color=00000000" />
+</picture>
 
-  <!-- Light Mode -->
-  <a href="https://github.com/Subhajitindia99das#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Subhajitindia99das&show=prs&rank_icon=github&show_icons=true&hide=reviews,discussions_answered,issues,contribs&theme=radical&hide_border=true#gh-light-mode-only"/>
-  </a>
-  <a href="https://github.com/Subhajitindia99das#gh-light-mode-only">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitindia99das&layout=compact&theme=radical&hide_border=true&card_width=400" />
-  </a>
-</p>
+<picture>
+  <!-- Dark mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitindia99das&layout=compact&theme=blue&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- Light mode -->
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitindia99das&layout=compact&theme=blue&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitindia99das&layout=compact&theme=blue&hide_border=true&bg_color=00000000" />
+</picture>
+
 
 ---
 
